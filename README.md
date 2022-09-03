@@ -10,6 +10,7 @@ Blogger, Lifelong learner.
 - 📝 Founder - [mujicv.com](https://www.mujicv.com)
 - ✉️ Ping me by [Email](mailto:lfh757362813@gmail.com)
 - 💬 WeChat: Deku951122
+- 👨‍💻 experience：<a href="" target="_blank">我的26年</a>
 - ⚒ More social media: [微博](https://weibo.com/u/5405291538) / [公众号: 椿野悠的笔记](http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzkyOTIxMDAzNw==#wechat_webview_type=1&wechat_redirect)
 
 ### Technology Stack
