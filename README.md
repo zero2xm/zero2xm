@@ -13,8 +13,6 @@ Blogger, Lifelong learner.
 - 👨‍💻 experience：<a href="" target="_blank">我的26年</a>
 - ⚒ More social media: [微博](https://weibo.com/u/5405291538) / [公众号: 椿野悠的笔记](http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzkyOTIxMDAzNw==#wechat_webview_type=1&wechat_redirect)
 
-### Technology Stack
-
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
